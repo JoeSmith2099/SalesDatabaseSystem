@@ -30,7 +30,7 @@ Follow the instructions in the `main()` function to see the usage examples.
 
 ## Instructions
 1. Ensure you have Python 3.x and SQLite3 installed.
-2. Place the database file (`Milestone2-Group-Team_A.db`) in the same directory as the script.
+2. Place the database file (`SalesDatabase.db`) in the same directory as the script.
 3. Run the script using a Python interpreter.
 
 ## Functions (Tentative)
