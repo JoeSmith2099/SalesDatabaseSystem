@@ -2,9 +2,9 @@
 # Sales Order Management System
 
 ## Authors
-- Bradley "Astro-Man" Lloyd
-- Mehedi "Hedi of the State" Nabil
-- Joseph "Wiffle BatBoy" Smith
+- Bradley Lloyd
+- Mehedi Nabil
+- Joseph Smith
 
 ## Date
 - November 5, 2020
