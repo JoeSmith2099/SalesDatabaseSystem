@@ -9,7 +9,7 @@
  #4. Do the update
  #5. Do the delete
  #6. Do a search
- #7. Delete everything and gtfo
+ 
 
 
 
